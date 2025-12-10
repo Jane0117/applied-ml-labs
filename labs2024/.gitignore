@@ -137,3 +137,5 @@ ui-tests/playwright-report
 .pnp.*
 ui-tests/.yarn/*
 ui-tests/.pnp.*
+
+labs2024/lab5/*.tar.gz
